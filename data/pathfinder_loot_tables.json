@@ -1,0 +1,70 @@
+[
+    {
+        "CR": 0,
+        "GoldRange": [
+            5,
+            20
+        ],
+        "ItemChance": 0.1,
+        "Items": [
+            {
+                "name": "Copper Ring",
+                "type": "art",
+                "value": 10,
+                "description": "A simple copper ring."
+            },
+            {
+                "name": "Quartz Gem",
+                "type": "gem",
+                "value": 5,
+                "description": "A small, cloudy quartz."
+            },
+            {
+                "name": "Healing Potion",
+                "type": "magic",
+                "value": 50,
+                "description": "Heals 2d4+2 HP."
+            },
+            {
+                "name": "Rusty Dagger",
+                "type": "mundane",
+                "value": 2,
+                "description": "A worn dagger."
+            }
+        ]
+    },
+    {
+        "CR": 4,
+        "GoldRange": [
+            20,
+            100
+        ],
+        "ItemChance": 0.2,
+        "Items": [
+            {
+                "name": "Silver Necklace",
+                "type": "art",
+                "value": 50,
+                "description": "A finely crafted necklace."
+            },
+            {
+                "name": "Amethyst",
+                "type": "gem",
+                "value": 100,
+                "description": "A deep purple gem."
+            },
+            {
+                "name": "Potion of Climbing",
+                "type": "magic",
+                "value": 180,
+                "description": "Grants climbing speed for 1 hour."
+            },
+            {
+                "name": "Longsword",
+                "type": "mundane",
+                "value": 15,
+                "description": "A standard longsword."
+            }
+        ]
+    }
+]
